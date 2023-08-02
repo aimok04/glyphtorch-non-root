@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlyphTorch</string>
+    <string name="function_name">Glyph-Taschenlampe</string>
+
+    <string name="common_ok">Okay</string>
+    <string name="common_close">Schließen</string>
+    <string name="common_next">Weiter</string>
+
+    <string name="common_unsupported">Nicht unterstützt</string>
+    <string name="common_open_settings">Einstellungen öffnen</string>
+
+    <string name="route_main_introduction_body">Moin 👋! Du musst dieser App einige Berechtigungen gewähren, damit sie funktionieren kann.</string>
+    <string name="route_main_alert_unsupported_body">Dieses Gerät wird nicht unterstützt, da die LED-Test-App nicht installiert ist.</string>
+
+    <string name="route_main_page_two_title">Bedienungshilfen</string>
+    <string name="route_main_page_two_body">Du musst den GlyphTorch Bedienungshilfen-Dienst aktivieren, um die App nutzen zu können.</string>
+
+    <string name="route_main_page_final_title">Fertig</string>
+    <string name="route_main_page_final_body">Die Glyph-Taschenlampe sollte nun funktionieren.\nMöchtest du sie ausprobieren?</string>
+    <string name="route_main_page_final_button_add_to_quick_settings">Zum Schnellzugriff hinzufügen</string>
+    <string name="route_main_page_final_button_use_torch">Taschenlampe nutzen</string>
+
+    <string name="route_legal_name">Genutzte Bibliotheken</string>
+</resources>

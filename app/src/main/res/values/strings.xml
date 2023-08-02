@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GlyphTorch</string>
+    <string name="function_name">Glyph Torch</string>
+
+    <string name="common_ok">Okay</string>
+    <string name="common_close">Close</string>
+    <string name="common_next">Continue</string>
+
+    <string name="common_unsupported">Unsupported</string>
+    <string name="common_open_settings">Open settings</string>
+
+    <string name="route_main_introduction_body">Hey there 👋! You\'ll need to grant some permissions for this app to work. Are you ready to begin?</string>
+    <string name="route_main_alert_unsupported_body">This device is not supported because the led tester app is not installed.</string>
+
+    <string name="route_main_page_two_title">Accessibility</string>
+    <string name="route_main_page_two_body">You\'ll need to activate the GlyphTorch accessibility service in order to use the app.</string>
+
+    <string name="route_main_page_final_title">Done</string>
+    <string name="route_main_page_final_body">GlyphTorch should work now.\nWanna try it out?</string>
+    <string name="route_main_page_final_button_add_to_quick_settings">Add to quick settings</string>
+    <string name="route_main_page_final_button_use_torch">Use torch</string>
+
+    <string name="route_legal_name">Used libraries</string>
+</resources>
