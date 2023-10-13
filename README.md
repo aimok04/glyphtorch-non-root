@@ -1,3 +1,7 @@
+# ARCHIVED
+Since Nothing OS 2.0 has this functionality built in (long press on the torch quick toggle) this repo could be considered obsolete.
+
+---
 ![GlyphTorch NonRoot](/images/title.png)
 ---  
 ![GitHub](https://img.shields.io/github/license/aimok04/glyphtorch-non-root?style=for-the-badge) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aimok04/glyphtorch-non-root?style=for-the-badge)
